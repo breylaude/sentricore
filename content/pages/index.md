@@ -9,9 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Boost your organization's production time
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      SentriCore is a plug-and-play hardware device that connects to your organization's network. It acts as a firewall, intrusion detection/prevention system (IDS/IPS) and threat intelligence node – all pre-configured for non-tech-savvy users.
     actions:
       - label: Get started
         altText: ''
