@@ -57,15 +57,13 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Here are the key benefits of SentiCore
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: Strengthens Zero Trust
+        subtitle: with Full Traffic Visibility
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Inspects all network traffic — including internal (east-west) — without relying on agents or endpoint integration. This ensures no blind spots, enabling you to enforce "never trust, always verify" across all layers of communication.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -88,12 +86,10 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
+      - title: Passive but Powerful
+        subtitle: Layer in Defense-in-Depth
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          It operates independently of existing infrastructure (firewalls, antivirus, etc.) to detect threats that slip through. As a tap-and-monitor device, SentiCore enhances security without disrupting operations — perfect for layered defense strategies.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -113,12 +109,10 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: Zero Configuration
+        subtitle: SME-Friendly Deployment
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Plug-and-play setup with no reconfiguration needed. It’s cost-effective, easy to deploy, and tailored for SMEs — providing enterprise-level network threat detection without the complexity.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
