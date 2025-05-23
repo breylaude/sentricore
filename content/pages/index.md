@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: SentriCore
       color: text-primary
       styles:
         self:
@@ -346,7 +346,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: SentriCore
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -381,7 +381,7 @@ sections:
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: SentriCore
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
