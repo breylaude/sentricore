@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: First layer of Defense for your Zero Trust Architecture
+      text: First layer Of Defense For Your Zero Trust Architecture
       color: text-dark
       type: TitleBlock
     subtitle: Boost your organization's production time
