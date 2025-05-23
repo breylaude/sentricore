@@ -738,7 +738,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: SentriCore - Demo
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: SentriCore by Laude Technologies
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
